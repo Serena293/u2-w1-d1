@@ -277,6 +277,7 @@ iframe {display: inline-block;
     display: inline-block;
     width: 49%;
     margin-left: 0;
+   
 }
  
 #section-novità form {display: inline-block;
@@ -288,9 +289,12 @@ margin: 0 auto;}
 
 html{font-size: 80%;}
 
+/* aside{ box-sizing: border-box ;}; */
+
 aside div{display: inline-block;
 width: 33%;
-margin-right:0;}
+margin-right:0;
+}
 
 table{width: 70%;
 margin-left: auto;
